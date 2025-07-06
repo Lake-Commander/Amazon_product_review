@@ -27,6 +27,13 @@ The analysis answers the following key business questions:
 
 ---
 
+## 📊 Results Summary
+
+The complete analysis results with pivot table and chart visuals (Q1 to Q14) are available in the [`results.md`](./results.md) file.
+
+📎 [View Full Results ➜](./results.md)
+
+
 ## 📂 File Structure and Sheet Descriptions
 
 ```
