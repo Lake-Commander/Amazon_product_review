@@ -30,15 +30,15 @@ The analysis answers the following key business questions:
 ## 📂 File Structure and Sheet Descriptions
 
 📁 ProductReviewAnalysis/
-├── 📄 README.md                  # This project documentation
-├── 📊 ProductAnalysis.xlsx       # Main workbook with cleaned data, pivot tables, and dashboard
+├── 📄 README.md # This project documentation
+├── 📊 ProductAnalysis.xlsx # Main workbook with cleaned data, pivot tables, and dashboard
 │
 ├── 📑 Sheets inside the workbook:
-│   ├── Cleaned_Data             # Final cleaned product-review table from Power Query
-│   ├── Products                 # Product information (Product ID as primary key)
-│   ├── Reviews                  # Review breakdown (Product ID as foreign key)
-│   ├── Q1–Q14                   # Each sheet has pivot tables/analysis for each question
-│   └── Dashboard                # Combined visual presentation of insights using Pivot Charts
+│ ├── Cleaned_Data # Final cleaned product-review table from Power Query
+│ ├── Products # Product information (Product ID as primary key)
+│ ├── Reviews # Review breakdown (Product ID as foreign key)
+│ ├── Q1–Q14 # Each sheet has pivot tables/analysis for each question
+│ └── Dashboard # Combined visual presentation of insights using Pivot Charts
 
 
 ---
