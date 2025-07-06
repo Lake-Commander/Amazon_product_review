@@ -1,4 +1,4 @@
-# 📊 Product Review Analysis Project
+# 📊 Amazon Product Review Analysis Project
 
 ## 📝 Project Overview
 
