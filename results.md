@@ -1,98 +1,26 @@
-# 📈 Pivot Table Results (Q1–Q14)
+## 📈 Pivot Table Results (Q1–Q14)
 
-This document showcases the key visual insights generated from Excel Pivot Tables during the Product Review Analysis.
+# This document showcases the key visual insights generated from Excel Pivot Tables during the Product Review Analysis.
 
----
-
-## 📌 Questions Index
-
-1. [Q1. Average Discount % by Category](#q1-average-discount--by-category)
-2. [Q2. Product Count per Category](#q2-product-count-per-category)
-3. [Q3. Total Reviews per Category](#q3-total-reviews-per-category)
-4. [Q4. Highest Average Rated Products](#q4-highest-average-rated-products)
-5. [Q5. Avg Actual vs Discounted Price by Category](#q5-avg-actual-vs-discounted-price-by-category)
-6. [Q6. Most Reviewed Products](#q6-most-reviewed-products)
-7. [Q7. Products with ≥50% Discount](#q7-products-with-50-or-more-discount)
-8. [Q8. Rating Distribution](#q8-rating-distribution)
-9. [Q9. Total Potential Revenue by Category](#q9-total-potential-revenue-by-category)
-10. [Q10. Products per Price Range Bucket](#q10-products-per-price-range-bucket)
-11. [Q11. Discount vs Rating Relationship](#q11-discount-vs-rating-relationship)
-12. [Q12. Products with <1,000 Reviews](#q12-products-with-fewer-than-1000-reviews)
-13. [Q13. Highest Discounts by Category](#q13-categories-with-highest-discounts)
-14. [Q14. Top 5 Products (Rating × Reviews)](#q14-top-5-products-rating--reviews)
+<details> <summary><strong>Q1. What is the average discount percentage by product category?</strong></summary> <p align="center"> <img src="visuals/q1.jpg" width="600" alt="Average Discount by Category"> </p> </details> <details> <summary><strong>Q2. How many products are listed under each category?</strong></summary> <p align="center"> <img src="visuals/q2.jpg" width="600" alt="Number of Products by Category"> </p> </details> <details> <summary><strong>Q3. What is the total number of reviews per category?</strong></summary> <p align="center"> <img src="visuals/q3.jpg" width="600" alt="Total Reviews by Category"> </p> </details> <details> <summary><strong>Q4. Which products have the highest average ratings?</strong></summary> <p align="center"> <img src="visuals/q4.jpg" width="600" alt="Top Rated Products"> </p> </details> <details> <summary><strong>Q5. What is the average actual price vs. discounted price by category?</strong></summary> <p align="center"> <img src="visuals/q5.jpg" width="600" alt="Actual vs Discounted Price"> </p> </details> <details> <summary><strong>Q6. Which products have the highest number of reviews?</strong></summary> <p align="center"> <img src="visuals/q6.jpg" width="600" alt="Most Reviewed Products"> </p> </details> <details> <summary><strong>Q7. How many products have a discount of 50% or more?</strong></summary> <p align="center"> <img src="visuals/q7.jpg" width="600" alt="50 Percent Discount Products"> </p> </details> <details> <summary><strong>Q8. What is the distribution of product ratings?</strong></summary> <p align="center"> <img src="visuals/q8.jpg" width="600" alt="Rating Distribution"> </p> </details> <details> <summary><strong>Q9. What is the total potential revenue by category?</strong></summary> <p align="center"> <img src="visuals/q9.jpg" width="600" alt="Potential Revenue"> </p> </details> <details> <summary><strong>Q10. What is the number of unique products per price range bucket?</strong></summary> <p align="center"> <img src="visuals/q10.jpg" width="600" alt="Product Price Ranges"> </p> </details> <details> <summary><strong>Q11. How does the rating relate to the level of discount?</strong></summary> <p align="center"> <img src="visuals/q11.jpg" width="600" alt="Rating vs Discount"> </p> </details> <details> <summary><strong>Q12. How many products have fewer than 1,000 reviews?</strong></summary> <p align="center"> <img src="visuals/q12.jpg" width="600" alt="Products with Less Reviews"> </p> </details> <details> <summary><strong>Q13. Which categories have products with the highest discounts?</strong></summary> <p align="center"> <img src="visuals/q13.jpg" width="600" alt="Highest Discount Categories"> </p> </details> <details> <summary><strong>Q14. Top 5 products in terms of rating and number of reviews combined?</strong></summary> <p align="center"> <img src="visuals/q14.jpg" width="600" alt="Top Combined Products"> </p> </details>
 
 ---
 
-## 📊 Pivot Table Visuals
+## 📈Key Visual Insights
 
-### Q1. Average Discount % by Category
-![Q1](visuals/q1.jpg)
-
----
-
-### Q2. Product Count per Category
-![Q2](visuals/q2.jpg)
-
----
-
-### Q3. Total Reviews per Category
-![Q3](visuals/q3.jpg)
-
----
-
-### Q4. Highest Average Rated Products
-![Q4](visuals/q4.jpg)
-
----
-
-### Q5. Avg Actual vs Discounted Price by Category
-![Q5](visuals/q5.jpg)
-
----
-
-### Q6. Most Reviewed Products
-![Q6](visuals/q6.jpg)
-
----
-
-### Q7. Products with 50% or More Discount
-![Q7](visuals/q7.jpg)
-
----
-
-### Q8. Rating Distribution
-![Q8](visuals/q8.jpg)
-
----
-
-### Q9. Total Potential Revenue by Category
-![Q9](visuals/q9.jpg)
-
----
-
-### Q10. Products per Price Range Bucket
-![Q10](visuals/q10.jpg)
-
----
-
-### Q11. Discount vs Rating Relationship
-![Q11](visuals/q11.jpg)
-
----
-
-### Q12. Products with Fewer Than 1,000 Reviews
-![Q12](visuals/q12.jpg)
-
----
-
-### Q13. Categories with Highest Discounts
-![Q13](visuals/q13.jpg)
-
----
-
-### Q14. Top 5 Products (Rating × Reviews)
-![Q14](visuals/q14.jpg)
-
----
-
-[⬆ Back to Top](#📌-questions-index)
+| Insight                                 | Visualization                                               |
+| --------------------------------------- | ----------------------------------------------------------- |
+| Average Discount by Category            | ![](visuals/avg_discount_by_category.jpg)                   |
+| Number of Products by Category          | ![](visuals/number_of_products_by_category.jpg)             |
+| Total Reviews by Category               | ![](visuals/total_reviews_by_category.jpg)                  |
+| Top 5 Rated Products                    | ![](visuals/top_five_rated_products.jpg)                    |
+| Most Reviewed Products                  | ![](visuals/most_reviewed_products.jpg)                     |
+| Discount ≥ 50%                          | ![](visuals/no_of_products_with_50percent_off_discount.jpg) |
+| Price Comparison (Actual vs Discounted) | ![](visuals/actual_vs_discounted_price_by_category.jpg)     |
+| Rating Distribution                     | ![](visuals/rating_distribution.jpg)                        |
+| Revenue Potential                       | ![](visuals/potential_revenue_by_category.jpg)              |
+| Ratings vs Discounts                    | ![](visuals/rating_vs_discount.jpg)                         |
+| Products ≥ 1000 Reviews                 | ![](visuals/products_with_1000_or_more_reviews.jpg)         |
+| Price Ranges                            | ![](visuals/product_price_ranges.jpg)                       |
+| Top 5 Combined Score Products           | ![](visuals/top_five_products_ratingXreview.jpg)            |
+| Highest Discount Categories             | ![](visuals/highest_discount_by_category.jpg)               |
