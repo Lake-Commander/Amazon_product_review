@@ -1,12 +1,12 @@
-# 📊 Amazon Product Review Analysis Project
+#  Amazon Product Review Analysis Project
 
-## 📝 Project Overview
+## Project Overview
 
 This project focuses on **cleaning, transforming, and analyzing** a dataset of product listings and their associated customer reviews from the Amazon e-commerce platform. Using **Microsoft Excel** and **Power Query**, the data was restructured to support effective insights via **Pivot Tables** and **Dashboard Visualization**.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The analysis answers the following key business questions:
 
@@ -27,22 +27,22 @@ The analysis answers the following key business questions:
 
 ---
 
-## 📊 Results Summary
+##  Results Summary
 
 The complete analysis results with pivot table and chart visuals (Q1 to Q14) are available in the [`results.md`](./results.md) file.
 
-📎 [View Full Results ➜](./results.md)
+ [View Full Results ➜](./results.md)
 
 
-## 📂 File Structure and Sheet Descriptions
+##  File Structure and Sheet Descriptions
 
 ```
-📁 ProductReviewAnalysis/
-├── 📄 README.md                  # This project documentation
-├── 📄 results.md                 # contains interactive dashboard
-├── 📊 Amazon_product_analysis.xlsx       # Main workbook with cleaned data, pivot tables, and dashboard
+ ProductReviewAnalysis/
+├──  README.md                  # This project documentation
+├──  results.md                 # contains interactive dashboard
+├──  Amazon_product_analysis.xlsx       # Main workbook with cleaned data, pivot tables, and dashboard
 │
-├── 📑 Sheets inside the workbook:
+├──  Sheets inside the workbook:
 │   ├── amazon                   #Original amazon dataset
 │   ├── sorted                   # cleaned product-review table from Power Query. csv were split into multiple columns
                                    using power query 
@@ -54,7 +54,7 @@ The complete analysis results with pivot table and chart visuals (Q1 to Q14) are
 
 ---
 
-## 🛠 Tools & Techniques Used
+##  Tools & Techniques Used
 
 - **Power Query**: Data transformation (split, clean, unpivot, zip, expand, join)
 - **Excel Pivot Tables**: Aggregations, distinct counts, averages, sums
@@ -63,7 +63,7 @@ The complete analysis results with pivot table and chart visuals (Q1 to Q14) are
 
 ---
 
-## 👏 Acknowledgements
+##  Acknowledgements
 
 Special thanks to:
 
@@ -72,8 +72,8 @@ Special thanks to:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ephraim Elakhe**  
-📧 Email: elakhe.ephraim.9@gmail.com  
-🔗 LinkedIn: *https://www.linkedin.com/in/ephraimelakhe/*  
+ Email: elakhe.ephraim.9@gmail.com  
+ LinkedIn: *https://www.linkedin.com/in/ephraimelakhe/*  
